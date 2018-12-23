@@ -1,7 +1,9 @@
 1) What are three interesting facts about you?
-
-
+I drink more boba than water.
+I procrastinate assignments until the very end.
+I do not like sushi.
 2) What's your favorite song and movie?
-
-
+My current favorite song is First Time by Seven Lions.
+My favorite movie is Infinity War.
 3) Why do you want to learn how to program?
+I'm always using my computer all the time, so I want to explore my interests by learning computer science.
