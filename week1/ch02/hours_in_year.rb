@@ -5,3 +5,5 @@
 
 
 ### Your Code Here ###
+number_hrs = 365.25 * 24
+puts number_hrs.to_i
