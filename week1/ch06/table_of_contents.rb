@@ -2,11 +2,11 @@
 
 
 ### Your Code Here ###
-line_width = 50
+line_width = 100
 puts 'Learn to Program'.center(line_width)
 puts ' '
-puts 'Chapter 1: Getting Started'.ljust(line_width/2) + 'page 1'.rjust(line_width/2)
-puts 'Chapter 2: Numbers'.ljust(line_width/2) + 'page 9'.rjust(line_width/2)
+puts 'Chapter 1: Getting Started'.ljust(line_width/2) + 'page  1'.rjust(line_width/2)
+puts 'Chapter 2: Numbers'.ljust(line_width/2) + 'page  9'.rjust(line_width/2)
 puts 'Chapter 3: Letters'.ljust(line_width/2) + 'page 13'.rjust(line_width/2)
 puts 'Chapter 4: Variables and Assignment'.ljust(line_width/2) + 'page 17'.rjust(line_width/2)
 puts 'Chapter 5: Mixing It Up'.ljust(line_width/2) + 'page 21'.rjust(line_width/2)
