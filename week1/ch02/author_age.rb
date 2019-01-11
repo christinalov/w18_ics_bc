@@ -6,4 +6,4 @@
 
 ### Your Code Here ###
 current_age = 1160000000 #in seconds
-puts (current_age/3600/24/365.25)
+puts (current_age/(3600*24*365.25))
